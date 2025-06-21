@@ -7,38 +7,28 @@ export default function Index() {
     <>
       <Container className="space-y-8">
         <header>
-          <h1 className="font-display text-4xl font-semibold">Adem ilter</h1>
+          <h1 className="font-display text-4xl font-semibold">Polat İnceler</h1>
           <h2 className="font-display text-mute text-4xl">
-            Product Designer at <a href="https://upstash.com">Upstash</a>
+            Agency Director at <a href="https://www.infomedya.agency">Infomedya</a>
           </h2>
         </header>
 
         <p>
-          I believe my greatest strength is my ability to repeatedly ask “why?”
-          at every stage of the projects I work on, stripping away unnecessary
-          clutter and designing functional and simple products.
+          I’ve been leading web projects and managing agency, with a focus on PHP, Laravel, WordPress development, UI development and server management.
         </p>
 
         <p>
-          Outside of work, I enjoy camping, photography, and inventing things
-          using 3D printing.
+        Lately, I’ve been exploring AI-driven automation using tools like N8N and MCP Tools, experimenting with large language models for content generation, and developing smart home solutions with Raspberry Pi.
         </p>
 
         <Social>
           <SocialButton href={`mailto:${SOCIAL.email}`}>Mail</SocialButton>
-          <SocialButton href={SOCIAL.instagram}>Instagram</SocialButton>
-          <SocialButton href={SOCIAL.twitter}>Twitter</SocialButton>
-          <SocialButton href={SOCIAL.raindrop}>Bookmarks</SocialButton>
+          <SocialButton href={SOCIAL.github}>GitHub</SocialButton>
+          <SocialButton href={SOCIAL.x}>X</SocialButton>
+          <SocialButton href={SOCIAL.linkedin}>LinkedIn</SocialButton>
         </Social>
       </Container>
 
-      <Container size="large" className="mt-10 sm:mt-24">
-        <img
-          src="/photos/we.jpg"
-          alt="Adem ilter, çocukları ile beraber bir ormanda oturmuş göle doğru bakıyorlar"
-          className="rounded-xl sm:rounded-4xl"
-        />
-      </Container>
     </>
   );
 }

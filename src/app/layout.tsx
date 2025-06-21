@@ -20,10 +20,10 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   title: {
-    default: "Adem ilter",
-    template: `%s | Adem ilter`,
+    default: "Polat İnceler",
+    template: `%s | Polat İnceler`,
   },
-  description: "Product Designer",
+  description: "Agency Director at Infomedya, PHP & WordPress & Laravel Developer, Tech Enthusiast",
 };
 
 export default function RootLayout({

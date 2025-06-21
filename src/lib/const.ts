@@ -1,9 +1,6 @@
 export const SOCIAL = {
-  email: "ademilter@gmail.com",
-  vsco: "https://vsco.co/adem/gallery",
-  instagram: "https://instagram.com/ademilter",
-  twitter: "https://twitter.com/ademilter",
-  github: "https://github.com/ademilter",
-  youtube: "https://youtube.com/ademilter",
-  raindrop: "https://raindrop.io/adem",
+  email: "inceler.polat@gmail.com",
+  linkedin: "https://www.linkedin.com/in/polat-inceler",
+  x: "https://twitter.com/polat_inceler",
+  github: "https://github.com/polat",
 };
