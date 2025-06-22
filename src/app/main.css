@@ -22,3 +22,7 @@ a {
 h1, h2, p {
   @apply text-balance;
 }
+
+footer p {
+  @apply text-base text-mute;
+}

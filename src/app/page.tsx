@@ -27,8 +27,21 @@ export default function Index() {
           <SocialButton href={SOCIAL.x}>X</SocialButton>
           <SocialButton href={SOCIAL.linkedin}>LinkedIn</SocialButton>
         </Social>
-      </Container>
 
+
+      <footer>
+        <p className="font-display">
+          Based on the original design by{" "}
+          <a
+            href="https://github.com/ademilter/homepage"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Adem İlter
+          </a>
+        </p>
+      </footer>
+      </Container>
     </>
   );
 }
