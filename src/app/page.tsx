@@ -18,7 +18,7 @@ export default function Index() {
         </p>
 
         <p>
-        Lately, I’ve been exploring AI-driven automation using tools like N8N and MCP Tools, experimenting with large language models for content generation, and developing smart home solutions with Raspberry Pi.
+        Lately, I’ve been exploring AI-driven automation using tools like N8N and MCP Tools, experimenting with large language models for content generation, and developing smart home solutions.
         </p>
 
         <Social>
